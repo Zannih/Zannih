@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zanni, James or @jr_ff_n on Twitter.
+- 👋 Hi, I’m @Zannih, James or @jr_ff_n on Twitter.
 - 👀 I’m interested in learning all about web development and blockchain.
 - 🌱 I’m currently learning JavaScript, CSS, and HTML, primarily through Frontend Masters!
 - 💞️ I’m looking to collaborate on ...well, probably not much yet as I'm still in the very early stages of learning, but always open to opportunities.
